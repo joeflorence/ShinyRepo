@@ -3,6 +3,9 @@ title:
 account: joeflorence
 server: shinyapps.io
 appId: 159270
-bundleId: 724348
+bundleId: 725444
 url: https://joeflorence.shinyapps.io/shinyrepo/
-when: 1487983486.8098
+when: 1488116755.56578
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: README.md
