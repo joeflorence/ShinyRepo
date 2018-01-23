@@ -1,8 +1,6 @@
 # This is the user-interface (ui) definition for my Shiny web application. It controls the ui. If this is a new concept, consider an analogy with web developers coding directly into an html file. Think of it as an alternative, easier to use interface for that html file.
 
-shinyUI(pageWithSidebar(
-  
-  ui = fluidPage(theme = shinytheme("superhero")), # I dunno if this will work
+shinyUI(pageWithSidebar("Affirmation Application", theme = shinytheme("superhero"), # I dunno if this will work
   
   headerPanel("Tell me your hopes and dreams (in complete sentences)"),
   sidebarPanel(
