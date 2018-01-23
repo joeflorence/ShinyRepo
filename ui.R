@@ -2,7 +2,7 @@
 
 shinyUI(pageWithSidebar("Affirmation Application", theme = shinytheme("superhero"), # I dunno if this will work
   
-  headerPanel("Tell me your hopes and dreams (in complete sentences)"),
+  headerPanel("Tell me yer hopes and dreams (in complete sentences)"),
   sidebarPanel(
     textInput(inputId="text1", label = "a hope"),
     textInput(inputId="text2", label = "and a dream"),
