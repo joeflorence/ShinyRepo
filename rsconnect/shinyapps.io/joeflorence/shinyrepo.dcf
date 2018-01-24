@@ -2,10 +2,8 @@ name: shinyrepo
 title:
 account: joeflorence
 server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
 appId: 159270
-bundleId: 725444
+bundleId: 1189927
 url: https://joeflorence.shinyapps.io/shinyrepo/
-when: 1488116755.56578
-asMultiple: FALSE
-asStatic: FALSE
-ignoredFiles: README.md
+when: 1516759878.40361
